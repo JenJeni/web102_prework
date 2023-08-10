@@ -1,11 +1,3 @@
-//What information is stored in const games?
-//How many props does each game have?
-//What does each diff prop represent?
-//How many games are there?
-
-//Two props:
-//backers-# of unique people who have donated to fund the game
-//pledged- $ amount of money backers who have donated to the game
 
 // Image credits: Kickstarter
 const games = ` [
