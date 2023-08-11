@@ -165,7 +165,7 @@ const fullyFundedCount = fullyFundedGames.length;
 const totalFullyFunded = GAMES_JSON.reduce( ( acc, game ) => { return acc + game.pledged; }, 0 );
 
 // create a string that explains the number of unfunded games using the ternary operator
-const displayStr = `<p>A total of $${ totalFullyFunded.toLocaleString( "en-US" ) } has been raised for ${ fullyFundedCount } games. Currently, ${ totalUnderfunded } ${ totalUnderfunded == 1 ? 'game remains unfunded' : 'games remain unfunded' }. We need your help to fund these amazing games!</p>`;
+const displayStr = `A total of $${ totalFullyFunded.toLocaleString( "en-US" ) } has been raised for ${ fullyFundedCount } games. Currently, ${ totalUnderfunded } ${ totalUnderfunded == 1 ? 'game remains unfunded' : 'games remain unfunded' }. We need your help to fund these amazing games!`;
 
 // Compare results
 //console.log(displayStr);
