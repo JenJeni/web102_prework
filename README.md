@@ -4,7 +4,7 @@ Submitted by: **Jeni Mobley**
 
 **Sea Monster Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **19** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 * [x] The introduction section explains the background of the company and how many games remain unfunded.
 * [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games or all games.
 
 The following **optional** features are implemented:
 
@@ -37,7 +37,7 @@ GIF created with [LICEcap](https://www.cockos.com/licecap/) for Windows
 
 ## Notes
 
-I had to refamiliarize myself with some of the JavaScript syntax.
+
 
 ## License
 
