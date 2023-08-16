@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 I added animation effects to the game cards, restructured the color theme, and added some additional CSS for scrolling and padding.
 
-## Video Walkthrough
+<!--## Video Walkthrough
 
-<!-- Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features:
 
 <img src='assets/SeaMonster-Website-Walkthrough.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' /> -->
 
