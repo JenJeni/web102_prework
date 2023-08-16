@@ -23,9 +23,9 @@ I added animation effects to the game cards, restructured the color theme, and a
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+<!-- Here's a walkthrough of implemented features:
 
-<img src='assets/SeaMonster-Website-Walkthrough.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+<img src='assets/SeaMonster-Website-Walkthrough.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/) for Windows
